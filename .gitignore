@@ -1,0 +1,8 @@
+models/
+*.pt
+*.pth
+NEU-DET/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.env
