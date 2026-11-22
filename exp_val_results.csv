@@ -1,0 +1,7 @@
+model,seed,best_epoch,val_loss,val_acc,val_macro_f1,seconds
+baseline_cnn,42,29,0.0302,0.9963,0.9963,45
+baseline_cnn,7,24,0.045,0.9852,0.9852,40
+baseline_cnn,123,27,0.0425,0.9889,0.989,41
+resnet18,42,17,0.0004,1.0,1.0,117
+resnet18,7,15,0.0002,1.0,1.0,117
+resnet18,123,27,0.0001,1.0,1.0,117

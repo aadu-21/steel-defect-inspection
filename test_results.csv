@@ -1,0 +1,7 @@
+model,seed,acc,macro_f1,macro_prec,macro_rec,errors,macro_f1_clean
+resnet18,42,1.0,1.0,1.0,1.0,0,1.0
+resnet18,7,1.0,1.0,1.0,1.0,0,1.0
+resnet18,123,1.0,1.0,1.0,1.0,0,1.0
+baseline_cnn,42,0.9926,0.9926,0.9929,0.9926,2,0.996
+baseline_cnn,7,0.9741,0.9742,0.9762,0.9741,7,0.9764
+baseline_cnn,123,0.9815,0.9816,0.9828,0.9815,5,0.9842
